@@ -33,6 +33,28 @@
 
 ![KLEE](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ0MGJoem53YWZ1aXJ1Ync5anAweHhsd21jcDAxOG92dzd3MnF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HTVeYVXjLiunFlUOeu/giphy.gif)
 
+<h2 align="left">Play Games With Me</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Listen The Songs With Me</h2>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 <!-- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/-) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hesekiel Josafat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HesekielJosafat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Hesekiel Josafat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josafathesekiel@gmail.com) 
