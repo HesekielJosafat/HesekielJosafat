@@ -38,19 +38,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/HesekielJosafat/HesekielJosafat/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Listen The Songs With Me</h2>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <!-- 
 ## 🌐 Socials:
